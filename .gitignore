@@ -1,5 +1,7 @@
-/node_modules
-bundle.js
+/client/node_modules
+/client/bundle.js
+/server/node_modules
+/server/config.js
 npm-debug.log
 
 # IntelliJ
