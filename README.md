@@ -6,12 +6,12 @@ Server Side Authentication also included as a standalone API to use Client Side 
 For Client Side Authentication application
 ```
   > cd client
-	> npm install
-	> npm start
+  > npm install
+  > npm start
 ```
 For Server Side Authentication application
 ```
   > cd server
-	> npm install
-	> npm start
+  > npm install
+  > npm start
 ```
